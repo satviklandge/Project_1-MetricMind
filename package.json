@@ -1,0 +1,25 @@
+{
+  "name": "project_1-metricmind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satviklandge/Intership_Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/satviklandge/Intership_Task/issues"
+  },
+  "homepage": "https://github.com/satviklandge/Intership_Task#readme"
+}

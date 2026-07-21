@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+semantic_layer/node_modules/
+semantic_layer/.cache/
+
+# Environment files (contain sensitive credentials)
+.env
+semantic_layer/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
